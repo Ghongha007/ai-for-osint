@@ -17,4 +17,4 @@ To add a tool, add an object to `research/entries.json` and run `python3 build_r
 
 ## Licence
 
-The list is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The script is MIT. Compiled by [OSINT JOURNO](https://github.com/Ghongha007).
+The list is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The script is MIT. Compiled by [OSINT JOURNO](https://github.com/OSINT-JOURNO).
