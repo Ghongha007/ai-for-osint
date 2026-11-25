@@ -14,6 +14,7 @@ To add a tool, add an object to `research/entries.json` and run `python3 build_r
 - [chat2net](https://github.com/Ghongha007/chat2net): turn a chat or social-media export into a Gephi network
 - [osint-skills](https://github.com/Ghongha007/osint-skills): agent skills for verification, geolocation, chronolocation and fact-checking
 - [verify-mcp](https://github.com/Ghongha007/verify-mcp): an MCP server with keyless, read-only verification lookups
+- [osint-visuals](https://github.com/Ghongha007/osint-visuals): agent skills for evidence graphics: ship and flight tracks, shadow diagrams, 3D scenes, satellite before/after and scroll stories
 
 ## Licence
 
