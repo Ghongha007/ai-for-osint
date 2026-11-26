@@ -2,7 +2,7 @@
 
 AI tools, models and agent tooling that open-source investigators and journalists use, with the limits written next to each one.
 
-**146 entries. Every link was opened on 2026-11-16.**
+**146 entries. Every link was opened on 2026-11-16.** The same entries are on [Hugging Face as a dataset](https://huggingface.co/datasets/Ghongha007/ai-for-osint) you can filter or load in code.
 
 Most AI tool lists tell you what a tool promises. This one also tells you two things that matter more in an investigation: **where your material goes** when you use the tool, and **what is known about how it fails**.
 
